@@ -74,7 +74,7 @@
       "institution": "University of Texas at Austin",
       "location": "Austin, Texas, USA",
       "area": "Statistics & Data Science",
-      "studyType": "Graduated level",
+      "studyType": "Graduated student",
       "startDate": "2022-08-01",
       "endDate": "2025-05-01"
     },
@@ -82,7 +82,7 @@
       "institution": "Tel Aviv University",
       "location": "Tel Aviv, Israel",
       "area": "Plant Genetics",
-      "studyType": "Graduated level",
+      "studyType": "Graduated student",
       "startDate": "2017-10-01",
       "endDate": "2020-05-01"
     },
@@ -90,61 +90,12 @@
       "institution": "University of Science, Vietnam National University",
       "location": "Ho Chi Minh City, Vietnam",
       "area": "Molecular Biology & Genetics",
-      "studyType": "Undergraduate level",
+      "studyType": "Undergraduate student",
       "startDate": "2012-09-01",
       "endDate": "2016-05-01"
     }
   ],
-  "publications": [
-    {
-      "title": "An integrative pipeline for circular RNA quantitative trait locus discovery with application in human T cells",
-      "journal": "Bioinformatics",
-      "year": 2023,
-      "authors": ["Dat Thanh Nguyen", "..."],
-      "url": ""
-    },
-    {
-      "title": "LmTag: functional-enrichment and imputation-aware tag SNP selection for population-specific genotyping arrays",
-      "journal": "Briefings in Bioinformatics",
-      "year": 2022,
-      "authors": ["Dat Thanh Nguyen", "Quan Hoang Nguyen", "Nguyen Thuy Duong", "..."],
-      "url": ""
-    },
-    {
-      "title": "Circall: fast and accurate methodology for discovery of circular RNAs from paired-end RNA-seq data",
-      "journal": "BMC Bioinformatics",
-      "year": 2021,
-      "authors": ["Dat Thanh Nguyen", "Quang Thinh Trac", "Thi-Hau Nguyen", "..."],
-      "url": ""
-    },
-    {
-      "title": "A comprehensive evaluation of polygenic score and genotype imputation performances of human SNP arrays in diverse populations",
-      "journal": "Scientific Reports",
-      "year": 2022,
-      "authors": ["Dat Thanh Nguyen", "H.H. Trang Tran", "Hoang Mai Tran", "..."],
-      "url": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "cscQTL",
-      "summary": "An integrative framework for circRNA QTL analysis",
-      "url": "",
-      "year": 2023
-    },
-    {
-      "name": "Circall",
-      "summary": "Fast and accurate method for circular RNA discovery",
-      "url": "https://github.com/datngu/Circall",
-      "year": 2020
-    },
-    {
-      "name": "LmTag",
-      "summary": "Functional-enrichment & imputation-aware tag SNP selection for population-specific genotyping arrays",
-      "url": "https://github.com/datngu/LmTag",
-      "year": 2021
-    }
-  ],
+  
   "skills": [
     {
       "name": "Statistical Genetics / Bioinformatics",
