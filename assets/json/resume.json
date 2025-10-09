@@ -1,200 +1,213 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dat Thanh Nguyen",
+    "label": "Biomedical Data Scientist / bioinformatician",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ndat@utexas.edu",
+    "phone": "",
+    "url": "https://academic.dattn.com/",
+    "summary": "Experienced bioinformatician with expertise in statistical genetics, molecular QTL methods, variant prioritization, and deep learning for genomics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Oslo",
+      "countryCode": "NO",
+      "region": "Norway"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Academic",
+        "username": "Dat T Nguyen",
+        "url": "https://academic.dattn.com/"
+      },
+      {
+        "network": "GitHub",
+        "username": "datngu",
+        "url": "https://github.com/datngu"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ndat",
+        "url": "https://linkedin.com/in/ndat"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Institute of Clinical Medicine, University of Oslo",
+      "position": "Researcher",
+      "url": "https://www.med.uio.no/klinmed/english/people/aca/thanhdng/index.html",
+      "startDate": "2025-06-01",
+      "endDate": "",
+      "summary": "Research in statistical genetics and ML for integrating genomic and EHR data; focus on psychiatric disorder genetics",
+      "highlights": [
+        "Statistical genetics",
+        "Machine/deep learning for genomic + EHR integration",
+        "Psychiatric disorder genetics"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Faculty of Biosciences, Norwegian University of Life Sciences",
+      "position": "Research Fellow",
+      "url": "",
+      "startDate": "2022-03-01",
+      "endDate": "2025-03-01",
+      "summary": "Gene regulation via molecular QTLs and chromatin modeling",
+      "highlights": [
+        "circQTL, atacQTL, eQTL",
+        "Variant impact prediction & prioritization",
+        "Chromatin state modeling"
+      ]
+    },
+    {
+      "name": "Center for Biomedical Informatics, Vingroup Big Data Institute",
+      "position": "Bioinformatics Scientist",
+      "url": "",
+      "startDate": "2020-06-01",
+      "endDate": "2022-02-01",
+      "summary": "SNP array design and PRS benchmarking in Vietnamese populations",
+      "highlights": [
+        "Population-specific SNP array design",
+        "1000 Vietnamese Genomes project",
+        "PRS benchmarking & imputation"
+      ]
+    },
+    {
+      "name": "Department of Medical Epidemiology & Biostatistics, Karolinska Institutet",
+      "position": "Visiting Student",
+      "url": "",
+      "startDate": "2019-05-01",
+      "endDate": "2020-05-01",
+      "summary": "Developed computational methods for circular RNA detection"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "University of Texas at Austin",
+      "location": "Austin, Texas, USA",
+      "area": "Statistics & Data Science",
+      "studyType": "Graduated level",
+      "startDate": "2022-08-01",
+      "endDate": "2025-05-01"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Tel Aviv University",
+      "location": "Tel Aviv, Israel",
+      "area": "Plant Genetics",
+      "studyType": "Graduated level",
+      "startDate": "2017-10-01",
+      "endDate": "2020-05-01"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "University of Science, Vietnam National University",
+      "location": "Ho Chi Minh City, Vietnam",
+      "area": "Molecular Biology & Genetics",
+      "studyType": "Undergraduate level",
+      "startDate": "2012-09-01",
+      "endDate": "2016-05-01"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "title": "An integrative pipeline for circular RNA quantitative trait locus discovery with application in human T cells",
+      "journal": "Bioinformatics",
+      "year": 2023,
+      "authors": ["Dat Thanh Nguyen", "..."],
+      "url": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "title": "LmTag: functional-enrichment and imputation-aware tag SNP selection for population-specific genotyping arrays",
+      "journal": "Briefings in Bioinformatics",
+      "year": 2022,
+      "authors": ["Dat Thanh Nguyen", "Quan Hoang Nguyen", "Nguyen Thuy Duong", "..."],
+      "url": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Circall: fast and accurate methodology for discovery of circular RNAs from paired-end RNA-seq data",
+      "journal": "BMC Bioinformatics",
+      "year": 2021,
+      "authors": ["Dat Thanh Nguyen", "Quang Thinh Trac", "Thi-Hau Nguyen", "..."],
+      "url": ""
+    },
+    {
+      "title": "A comprehensive evaluation of polygenic score and genotype imputation performances of human SNP arrays in diverse populations",
+      "journal": "Scientific Reports",
+      "year": 2022,
+      "authors": ["Dat Thanh Nguyen", "H.H. Trang Tran", "Hoang Mai Tran", "..."],
+      "url": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "cscQTL",
+      "summary": "An integrative framework for circRNA QTL analysis",
+      "url": "",
+      "year": 2023
+    },
+    {
+      "name": "Circall",
+      "summary": "Fast and accurate method for circular RNA discovery",
+      "url": "https://github.com/datngu/Circall",
+      "year": 2020
+    },
+    {
+      "name": "LmTag",
+      "summary": "Functional-enrichment & imputation-aware tag SNP selection for population-specific genotyping arrays",
+      "url": "https://github.com/datngu/LmTag",
+      "year": 2021
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Statistical Genetics / Bioinformatics",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Molecular QTL (eQTL, circQTL, atacQTL)",
+        "Chromatin modeling",
+        "Variant impact prediction",
+        "Polygenic risk scoring"
+      ]
+    },
+    {
+      "name": "Machine Learning / Deep Learning",
+      "keywords": [
+        "Genomics integration",
+        "Neural network models for biology"
+      ]
+    },
+    {
+      "name": "Programming & Tools",
+      "keywords": [
+        "Python", "R", "Bash", "Nextflow",
+        "Git", "Docker"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Vietnamese",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Algorithm / Tool Development",
+      "keywords": ["cscQTL", "Circall", "LmTag"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Gene Regulation & Multi-omic Integration",
+      "keywords": ["Variant → Chromatin → Expression impact"]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Applied Machine Learning in Genomics",
+      "keywords": ["Deep models", "Integration of EHR + genomic data"]
+    },
+    {
+      "name": "Other Interests",
+      "keywords": ["Photography", "Blogging", "Travel", "Math & Programming"]
     }
   ]
 }
