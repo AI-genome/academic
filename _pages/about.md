@@ -9,10 +9,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: #>
-    # <p>Bygg 48</p>
-    # <p>Oslo Universitetssykehus</p>
-    # <p>Ullevål, 0450 Oslo</p>
+  more_info: >
+    <p></p>
 
 selected_papers: true
 social: true
