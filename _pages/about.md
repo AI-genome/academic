@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.med.uio.no/klinmed/english/people/aca/thanhdng/'>Centre for Precision Psychiatry, University Of Oslo</a>. Oslo Universitetssykehus HF - Ullevål. Bygg 48, 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Level 2, Bygg 48</p>
+    <p>Oslo Universitetssykehus HF</p>
+    <p>Ullevål, 0450 Oslo, Norway</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
