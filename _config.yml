@@ -121,7 +121,10 @@ disqus_shortname: Dat Nguyen # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
+
 external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@N.dat
   - name: Personal Blog
     posts:
       - url: https://dattn.com/may-con-co-em/
