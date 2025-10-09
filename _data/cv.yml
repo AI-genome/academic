@@ -18,7 +18,6 @@
       year: 08/2022-05/2025.
       description:
 
-
     - title: Plant Genetics
       institution: Tel Aviv University, Tel Aviv, Israel
       year: 10/2017-05/2020
@@ -32,7 +31,6 @@
 - title: Experience/employment
   type: time_table
   contents:
-  
     - title: Researcher
       institution: Insitute of Clinical Medicine, Unviersity of Oslo, Oslo, Norway
       year: 06/2025-now.
@@ -77,17 +75,17 @@
   type: time_table
   contents:
     - year: 2017
-      items: 
+      items:
         - International MSc program in Plant Sciences and Food Security scholarship - Tel Aviv Univeristy
     - year: 2019
-      items: 
+      items:
         - Scholarship for research associated master student - Karolinska Institutet
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Bioinformatic algorithm development
-      items: 
+      items:
         - Method for identifying circular RNAs
         - Method for desgining genotyping SNP array
     - title: Gene regulation/ multi-omic data analytics
@@ -97,7 +95,6 @@
       items:
         - Modeling chromatine accessibility
         - Variant impact/ causal variant prediction
-        
 
 - title: Other Interests
   type: list
