@@ -20,12 +20,12 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 20
+  limit: 1000
 
 latest_posts:
   enabled: false
   scrollable: true
-  limit: 3
+  limit: 5
 ---
 
 An experienced bioinformatician/biomedical data scientist with solid backgrounds in genetics, computer science, and statistics.
