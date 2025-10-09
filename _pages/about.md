@@ -5,16 +5,16 @@ permalink: /
 subtitle: >
   <a href="https://www.med.uio.no/klinmed/english/people/aca/thanhdng/">
   Centre for Precision Psychiatry, University of Oslo
-  </a>. Oslo Universitetssykehus HF – Ullevål, Bygg 48
+  </a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Level 2, Bygg 48</p>
-    <p>Oslo Universitetssykehus HF</p>
-    <p>Ullevål, 0450 Oslo, Norway</p>
+    <p>Bygg 48</p>
+    <p>Oslo Universitetssykehus</p>
+    <p>Ullevål, 0450 Oslo</p>
 
 selected_papers: true
 social: true
@@ -22,7 +22,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 10
+  limit: 20
 
 latest_posts:
   enabled: false
