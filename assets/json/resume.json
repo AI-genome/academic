@@ -36,6 +36,7 @@
     {
       "name": "Institute of Clinical Medicine, University of Oslo",
       "position": "Researcher",
+      "location": "Oslo, Norway",
       "url": "https://www.med.uio.no/klinmed/english/people/aca/thanhdng/index.html",
       "startDate": "2025-06-01",
       "endDate": "",
@@ -45,6 +46,7 @@
     {
       "name": "Faculty of Biosciences, Norwegian University of Life Sciences",
       "position": "Research Fellow",
+      "location": "As, Norway",
       "url": "",
       "startDate": "2022-03-01",
       "endDate": "2025-03-01",
@@ -54,6 +56,7 @@
     {
       "name": "Center for Biomedical Informatics, Vingroup Big Data Institute",
       "position": "Bioinformatics Scientist",
+      "location": "Hanoi, Vietnam",
       "url": "",
       "startDate": "2020-06-01",
       "endDate": "2022-02-01",
@@ -63,6 +66,7 @@
     {
       "name": "Department of Medical Epidemiology & Biostatistics, Karolinska Institutet",
       "position": "Visiting Student",
+      "location": "Stockholm, Sweden",
       "url": "",
       "startDate": "2019-05-01",
       "endDate": "2020-05-01",
@@ -95,7 +99,7 @@
       "endDate": "2016-05-01"
     }
   ],
-  
+
   "skills": [
     {
       "name": "Statistical Genetics / Bioinformatics",
