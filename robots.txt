@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ai-genome.github.io//sitemap.xml
+Sitemap: https://ai-genome.github.io/./sitemap.xml
