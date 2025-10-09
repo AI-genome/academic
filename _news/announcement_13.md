@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed graduated degree in Statistics and Data Science at The University of Texas at Austin :sparkles: :sparkles: 
+Completed graduated degree in Statistics and Data Science at The University of Texas at Austin :sparkles: :sparkles:

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to be admited to the graduate program in Statistics and Data Science at The University of Texas at Austin :sparkles: :sparkles: 
+Excited to be admited to the graduate program in Statistics and Data Science at The University of Texas at Austin :sparkles: :sparkles:
