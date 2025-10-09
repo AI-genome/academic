@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
 My research career begins with an MSc thesis project in Bioinformatics at Karolinska Insititute, Sweden :sparkles: :sparkles: :smile: :smile:

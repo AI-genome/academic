@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.med.uio.no/klinmed/english/people/aca/thanhdng/'>Centre for Precision Psychiatry, University Of Oslo</a>. Oslo Universitetssykehus HF - Ullevål. Bygg 48, 
+subtitle: <a href='https://www.med.uio.no/klinmed/english/people/aca/thanhdng/'>Centre for Precision Psychiatry, University Of Oslo</a>. Oslo Universitetssykehus HF - Ullevål. Bygg 48,
 
 profile:
   align: right
@@ -32,6 +32,5 @@ An experienced bioinformatician/ biomedical data scientist with solid background
 I am holding a research fellow position based Oslo, Norway where I actively do research in statistical and machine learning methods for human genetics, with a focus on psychiatric disorders.
 
 Past projects involved gene regulation inference, deep learning methods for genomics, circular RNA, population-specific SNP array designs, and Polygenic risk scores where I was the lead developer of several novel high-performance computational methods.
-
 
 Contact for collaboration: ndat(at)utexas(dot)edu
