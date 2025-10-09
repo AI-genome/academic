@@ -3,9 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.med.uio.no/klinmed/english/people/aca/thanhdng/">
-  Centre for Precision Psychiatry, University of Oslo
-  </a>.
+  Bio x AI Researcher | Understanding nature with data | MSDS, Bioinformatics PhD
 
 profile:
   align: right
