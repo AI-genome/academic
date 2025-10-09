@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://doi.org/10.48550/arXiv.2312.08747"> It is time to wrap up 2023! This is a preprint about natural language inference - which is my final project work of the graduate NLP course at UT Austin in Fall 2023 :smile:</a>
+<a href="https://doi.org/10.48550/arXiv.2312.08747"> It is time to wrap up 2023! This is a preprint about natural language inference - which is my final project work of the graduate NLP course at UT Austin in Fall 2023.</a>

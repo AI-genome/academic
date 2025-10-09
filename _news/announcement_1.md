@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-MSc thesis defense :o: I am now gradudated from the Tel Aviv Univeristy, Israel! grateful to all of my friends, teachers! :sparkles: :sparkles: :sparkles:
+MSc thesis defense :o: I am now gradudated from the Tel Aviv Univeristy, Israel! grateful to all of my friends, teachers! :sparkles: 

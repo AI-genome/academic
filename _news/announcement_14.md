@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to join the Center of Precision Psychiatry at Uinveristy of Oslo to work on machine learning and statistical methods for human genetics 😄.
+Excited to join the Center of Precision Psychiatry at Uinveristy of Oslo to work on machine learning and statistical methods for human genetics :sparkles: :sparkles: :sparkles: .

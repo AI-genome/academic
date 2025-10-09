@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I finished PhD defense. Thesis here
+I finished PhD defense :sparkles: . Thesis:
 <a href="https://nmbu.brage.unit.no/nmbu-xmlui/handle/11250/3189252">Improved computational methods for regulatory genomic inference</a>

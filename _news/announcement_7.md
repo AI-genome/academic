@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://www.nature.com/articles/s41598-022-22215-y">Another paper is publised at Scientific Reports :smile:</a>
+<a href="https://www.nature.com/articles/s41598-022-22215-y">Another paper is publised at Scientific Reports :sparkles: </a>

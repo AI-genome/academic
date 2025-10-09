@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04418-8">My first paper is published at BMC Bioinformatics :smile: :smile: :smile:</a>
+<a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04418-8">My first paper is published at BMC Bioinformatics :sparkles: 

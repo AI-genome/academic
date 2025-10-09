@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://ieeexplore.ieee.org/document/9648614">My KSE conference paper is published :smile: :smile: :smile:</a>
+<a href="https://ieeexplore.ieee.org/document/9648614">My KSE conference paper is published.

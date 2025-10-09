@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://doi.org/10.1093/bioinformatics/btad667"> cscQTL is out in Bioinformatics :smile:</a>
+<a href="https://doi.org/10.1093/bioinformatics/btad667"> cscQTL is out in Bioinformatics :sparkles: </a>
