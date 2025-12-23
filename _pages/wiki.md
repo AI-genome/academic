@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /wiki/
-title: lab wiki
+title: wiki
 nav: true
 nav_order: 1
 pagination:

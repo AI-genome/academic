@@ -86,9 +86,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Research notes # blog_name will be displayed in your blog page
-blog_description: A place for my personal notes related to research.
-permalink: /blog/:year/:title/
+blog_name: wiki # blog_name will be displayed in your blog page
+blog_description: A place for notting useful information for research projects.
+permalink: /wiki/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
