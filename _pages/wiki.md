@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /wiki/
+title: lab wiki
 nav: true
 nav_order: 1
 pagination:
